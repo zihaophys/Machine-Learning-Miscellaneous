@@ -76,8 +76,6 @@ label = train_labels[id]
 torch.nn
 ```
 
-
-
 + Implement a neural network
 
 ```python
@@ -175,5 +173,14 @@ def test_loop(dataloader, model, loss_fn):
     test_loss /= size
     correct /= size
     print(f"Test Error: \n Accuracy: {(100*correct):>0.1f}%, Avg loss: {test_loss:>8f} \n")
+```
+
++ Train it
+
+```python
+epochs = 5
+for t in range(epochs):
+  	train_loop(traing_dataloader, model, loss_fn, optimizer)
+    test_loop(test_dataloader, model, loss_fn)
 ```
 
