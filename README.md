@@ -21,7 +21,7 @@
 
 - [EM application: Regression of Dirichlet Multinomial Model](EM/DMM.ipynb)
 
-- [EM application: A causal inference model](EM/CausalInference.ipynb)
+- [EM application: A Causal Inference model](EM/CausalInference.ipynb)
 
 - [Comparison of EM and Mean-field EM on Linear Mixed Model](VI/linearModel.ipynb)
 
