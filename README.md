@@ -11,7 +11,7 @@
 
 - [Cross Validation demo](cross_validation.ipynb)
 
-- [Introduction of EB: Galton Family](GaltonFamily.ipynb)
+- [Introduction to Emprical Bayes: Galton Family](GaltonFamily.ipynb)
 
 - [James-Stein estimator for two groups](JSE/JSE_Cov.ipynb)
 
