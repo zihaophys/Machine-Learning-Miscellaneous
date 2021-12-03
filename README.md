@@ -2,7 +2,9 @@
 
 
 *ESL on your left,*
+
 *Python on your right,*
+
 *Empirical Bayes on your mind.*
 
 
