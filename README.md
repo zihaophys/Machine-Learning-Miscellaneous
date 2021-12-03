@@ -1,10 +1,8 @@
 # Machine Learning Miscellaneous
 
 
-*ESL on your left,*
-
-*Python on your right,*
-
+*ESL on your left,\n*
+*Python on your right,\n*
 *Empirical Bayes on your mind.*
 
 
